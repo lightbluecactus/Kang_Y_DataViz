@@ -12,6 +12,12 @@
 body
 {
 	font-family: 16px;
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
+}
+
+.data-img
+{
+	width: 30%;
+	max-width: 100%;
 }
